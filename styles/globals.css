@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-danger {
+  color: #f31260;
+}
+.text-success {
+  color: #17c964;
+}
